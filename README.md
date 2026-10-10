@@ -30,6 +30,7 @@ Master the fundamentals of MLOps, from training and experimentation to deploymen
 > - [মডিউল ৩: পাইপলাইন অর্কেস্ট্রেশন (Module 3 Guide)](03-orchestration/README-bn.md)
 > - [মডিউল ৪: মডেল ডিপ্লয়মেন্ট - Web, Batch, Streaming (Module 4 Guide)](04-deployment/README-bn.md)
 > - [মডিউল ৫: মডেল মনিটরিং - Evidently, Grafana (Module 5 Guide)](05-monitoring/README-bn.md)
+> - [মডিউল ৬: বেস্ট প্র্যাকটিসেস ও CI/CD - Pytest, Terraform (Module 6 Guide)](06-best-practices/README-bn.md)
 
 <p align="center">
 <a href="https://github.com/DataTalksClub/mlops-zoomcamp/pulls"><img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=for-the-badge" /></a>
