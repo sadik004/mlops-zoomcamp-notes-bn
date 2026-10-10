@@ -23,6 +23,9 @@ Master the fundamentals of MLOps, from training and experimentation to deploymen
 <a href="https://ctt.ac/fH67W">Tweet about the Course</a>
 </p>
 
+> [!TIP]
+> 🇧🇩 **বাংলা সংস্করণ (Bengali Version):** [মডিউল ১-এর সম্পূর্ণ হ্যান্ডস-অন মেটেরিয়ালস ও নোটস বাংলায় পড়ুন](01-intro/README-bn.md)
+
 <p align="center">
 <a href="https://github.com/DataTalksClub/mlops-zoomcamp/pulls"><img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=for-the-badge" /></a>
 <a href="https://datatalks.club/slack.html"><img src="https://img.shields.io/badge/Slack-Join%20Community-4A154B?style=for-the-badge&logo=slack" /></a>
