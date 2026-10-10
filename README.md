@@ -24,7 +24,9 @@ Master the fundamentals of MLOps, from training and experimentation to deploymen
 </p>
 
 > [!TIP]
-> 🇧🇩 **বাংলা সংস্করণ (Bengali Version):** [মডিউল ১-এর সম্পূর্ণ হ্যান্ডস-অন মেটেরিয়ালস ও নোটস বাংলায় পড়ুন](01-intro/README-bn.md)
+> 🇧🇩 **বাংলা সংস্করণ (Bengali Version):**
+> - [মডিউল ১: পরিচিতি ও বেসলাইন মডেল (Module 1 Guide)](01-intro/README-bn.md)
+> - [মডিউল ২: এক্সপেরিমেন্ট ট্র্যাকিং ও MLflow (Module 2 Guide)](02-experiment-tracking/README-bn.md)
 
 <p align="center">
 <a href="https://github.com/DataTalksClub/mlops-zoomcamp/pulls"><img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=for-the-badge" /></a>
